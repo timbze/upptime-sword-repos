@@ -12,6 +12,8 @@ sites:
     url: https://ibtrussia.org
   - name: Step Bible
     url: https://public.modules.stepbible.org
+  - name: Deutsche Bibelgesellschaft
+    url: https://die-bibel.de
   - name: AndBible Github repo
     url: https://andbible.github.io
 
