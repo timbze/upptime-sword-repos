@@ -6,6 +6,14 @@ repo: upptime-sword-repos # Your GitHub repository name
 sites:
   - name: Crosswire
     url: https://crosswire.org
+  - name: eBible
+    url: https://ebible.org
+  - name: IBT
+    url: https://ibtrussia.org
+  - name: Step Bible
+    url: https://public.modules.stepbible.org
+  - name: AndBible Github repo
+    url: https://andbible.github.io
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
