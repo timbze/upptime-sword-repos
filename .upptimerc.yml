@@ -4,7 +4,7 @@ repo: upptime-sword-repos # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Crosswire
+  - name: CrossWire
     url: https://crosswire.org
   - name: eBible
     url: https://ebible.org
