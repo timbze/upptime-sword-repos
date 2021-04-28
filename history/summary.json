@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 396,
-    "timeDay": 342,
-    "timeWeek": 646,
+    "time": 395,
+    "timeDay": 319,
+    "timeWeek": 307,
     "timeMonth": 416,
-    "timeYear": 396,
+    "timeYear": 395,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 371,
-    "timeDay": 522,
-    "timeWeek": 468,
-    "timeMonth": 381,
-    "timeYear": 371,
+    "time": 373,
+    "timeDay": 463,
+    "timeWeek": 503,
+    "timeMonth": 387,
+    "timeYear": 373,
     "dailyMinutesDown": {}
   },
   {
@@ -40,18 +40,20 @@
     "url": "https://ibtrussia.org",
     "icon": "https://favicons.githubusercontent.com/ibtrussia.org",
     "slug": "ibt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2772,
-    "timeDay": 1834,
-    "timeWeek": 858,
-    "timeMonth": 3167,
-    "timeYear": 2772,
-    "dailyMinutesDown": {}
+    "time": 2757,
+    "timeDay": 1144,
+    "timeWeek": 915,
+    "timeMonth": 2779,
+    "timeYear": 2757,
+    "dailyMinutesDown": {
+      "2021-04-28": 0
+    }
   },
   {
     "name": "Xiphos FTP",
@@ -65,9 +67,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 52,
-    "timeDay": 80,
+    "timeDay": 44,
     "timeWeek": 49,
-    "timeMonth": 48,
+    "timeMonth": 49,
     "timeYear": 52,
     "dailyMinutesDown": {}
   },
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 413,
-    "timeDay": 562,
-    "timeWeek": 325,
-    "timeMonth": 424,
-    "timeYear": 413,
+    "time": 412,
+    "timeDay": 361,
+    "timeWeek": 326,
+    "timeMonth": 426,
+    "timeYear": 412,
     "dailyMinutesDown": {}
   },
   {
@@ -100,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 98,
-    "timeDay": 109,
+    "time": 97,
+    "timeDay": 46,
     "timeWeek": 72,
-    "timeMonth": 96,
-    "timeYear": 98,
+    "timeMonth": 94,
+    "timeYear": 97,
     "dailyMinutesDown": {}
   }
 ]
