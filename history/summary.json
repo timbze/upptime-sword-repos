@@ -41,19 +41,17 @@
     "icon": "https://favicons.githubusercontent.com/ibtrussia.org",
     "slug": "ibt",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.22%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.98%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2742,
     "timeDay": 1126,
     "timeWeek": 939,
     "timeMonth": 2758,
     "timeYear": 2742,
-    "dailyMinutesDown": {
-      "2021-04-28": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Xiphos FTP",
