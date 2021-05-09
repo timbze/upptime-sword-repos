@@ -40,9 +40,9 @@
     "url": "https://ibtrussia.org",
     "icon": "https://favicons.githubusercontent.com/ibtrussia.org",
     "slug": "ibt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -51,7 +51,9 @@
     "timeWeek": 1384,
     "timeMonth": 1211,
     "timeYear": 2646,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-05-09": 0
+    }
   },
   {
     "name": "Xiphos FTP",
