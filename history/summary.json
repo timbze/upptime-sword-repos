@@ -40,19 +40,19 @@
     "url": "https://ibtrussia.org",
     "icon": "https://favicons.githubusercontent.com/ibtrussia.org",
     "slug": "ibt",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2567,
-    "timeDay": 1178,
-    "timeWeek": 1394,
-    "timeMonth": 1246,
-    "timeYear": 2567,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.73%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.96%",
+    "time": 2557,
+    "timeDay": 1240,
+    "timeWeek": 1384,
+    "timeMonth": 1248,
+    "timeYear": 2557,
     "dailyMinutesDown": {
-      "2021-05-16": 0
+      "2021-05-16": 33
     }
   },
   {
