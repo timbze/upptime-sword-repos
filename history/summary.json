@@ -96,9 +96,9 @@
     "url": "https://andbible.github.io",
     "icon": "https://favicons.githubusercontent.com/andbible.github.io",
     "slug": "and-bible-github-repo",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,6 +107,8 @@
     "timeWeek": 112,
     "timeMonth": 87,
     "timeYear": 91,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-08": 0
+    }
   }
 ]
