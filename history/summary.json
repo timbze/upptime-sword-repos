@@ -22,9 +22,9 @@
     "url": "https://ebible.org",
     "icon": "https://favicons.githubusercontent.com/ebible.org",
     "slug": "e-bible",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 270,
     "timeMonth": 337,
     "timeYear": 377,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-21": 0
+    }
   },
   {
     "name": "IBT",
