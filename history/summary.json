@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 354,
-    "timeDay": 255,
-    "timeWeek": 322,
-    "timeMonth": 323,
+    "timeDay": 280,
+    "timeWeek": 319,
+    "timeMonth": 321,
     "timeYear": 354,
     "dailyMinutesDown": {}
   },
@@ -24,15 +24,15 @@
     "slug": "e-bible",
     "status": "up",
     "uptime": "99.48%",
-    "uptimeDay": "32.02%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "90.29%",
     "uptimeMonth": "97.77%",
     "uptimeYear": "99.48%",
-    "time": 376,
-    "timeDay": 293,
-    "timeWeek": 280,
-    "timeMonth": 340,
-    "timeYear": 376,
+    "time": 374,
+    "timeDay": 91,
+    "timeWeek": 254,
+    "timeMonth": 326,
+    "timeYear": 374,
     "dailyMinutesDown": {
       "2021-07-21": 979
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2127,
-    "timeDay": 1262,
-    "timeWeek": 1355,
-    "timeMonth": 1359,
-    "timeYear": 2127,
+    "time": 2122,
+    "timeDay": 1100,
+    "timeWeek": 1327,
+    "timeMonth": 1338,
+    "timeYear": 2122,
     "dailyMinutesDown": {
       "2021-05-16": 33
     }
@@ -70,8 +70,8 @@
     "uptimeYear": "100.00%",
     "time": 52,
     "timeDay": 45,
-    "timeWeek": 46,
-    "timeMonth": 60,
+    "timeWeek": 50,
+    "timeMonth": 59,
     "timeYear": 52,
     "dailyMinutesDown": {}
   },
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 356,
-    "timeDay": 229,
-    "timeWeek": 345,
-    "timeMonth": 323,
-    "timeYear": 356,
+    "time": 355,
+    "timeDay": 244,
+    "timeWeek": 330,
+    "timeMonth": 317,
+    "timeYear": 355,
     "dailyMinutesDown": {}
   },
   {
@@ -105,9 +105,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 88,
-    "timeDay": 37,
-    "timeWeek": 81,
-    "timeMonth": 82,
+    "timeDay": 44,
+    "timeWeek": 76,
+    "timeMonth": 74,
     "timeYear": 88,
     "dailyMinutesDown": {
       "2021-06-08": 51
