@@ -6,6 +6,10 @@ repo: upptime-sword-repos # Your GitHub repository name
 sites:
   - name: CrossWire
     url: https://crosswire.org
+  - name: CrossWire FTP
+    check: "tcp-ping"
+    url: ftp.crosswire.org
+    port: 21
   - name: eBible Main
     url: https://ebible.org
   - name: eBible FTP
