@@ -12,10 +12,14 @@ sites:
     port: 21
   - name: eBible Main
     url: https://ebible.org
+    assignees:
+      - kahunapule
   - name: eBible FTP
     check: "tcp-ping"
     url: ftp.ebible.org
     port: 21
+    assignees:
+      - kahunapule
   - name: IBT
     url: https://ibtrussia.org
   - name: Xiphos FTP
