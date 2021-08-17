@@ -114,9 +114,9 @@
     "url": "https://public.modules.stepbible.org",
     "icon": "https://favicons.githubusercontent.com/public.modules.stepbible.org",
     "slug": "step-bible",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -125,7 +125,9 @@
     "timeWeek": 366,
     "timeMonth": 332,
     "timeYear": 351,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-17": 0
+    }
   },
   {
     "name": "AndBible Github repo",
