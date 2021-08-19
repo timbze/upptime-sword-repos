@@ -4,19 +4,19 @@
     "url": "https://crosswire.org",
     "icon": "https://favicons.githubusercontent.com/crosswire.org",
     "slug": "cross-wire",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "96.88%",
-    "uptimeWeek": "99.55%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.98%",
-    "time": 347,
-    "timeDay": 216,
-    "timeWeek": 302,
-    "timeMonth": 310,
-    "timeYear": 347,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "95.69%",
+    "uptimeWeek": "99.38%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.97%",
+    "time": 346,
+    "timeDay": 242,
+    "timeWeek": 298,
+    "timeMonth": 309,
+    "timeYear": 346,
     "dailyMinutesDown": {
-      "2021-08-19": 45
+      "2021-08-19": 62
     }
   },
   {
