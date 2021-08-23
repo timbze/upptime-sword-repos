@@ -117,19 +117,19 @@
     "url": "https://public.modules.stepbible.org",
     "icon": "https://favicons.githubusercontent.com/public.modules.stepbible.org",
     "slug": "step-bible",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.10%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.98%",
     "time": 351,
-    "timeDay": 253,
-    "timeWeek": 367,
-    "timeMonth": 335,
+    "timeDay": 264,
+    "timeWeek": 357,
+    "timeMonth": 333,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2021-08-23": 0
+      "2021-08-23": 42
     }
   },
   {
