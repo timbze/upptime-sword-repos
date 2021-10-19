@@ -43,9 +43,9 @@
     "url": "https://ebible.org",
     "icon": "https://favicons.githubusercontent.com/ebible.org",
     "slug": "e-bible-main",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -54,7 +54,9 @@
     "timeWeek": 254,
     "timeMonth": 333,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-19": 1
+    }
   },
   {
     "name": "eBible FTP",
