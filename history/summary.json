@@ -86,10 +86,10 @@
     "url": "https://ibtrussia.org",
     "icon": "https://favicons.githubusercontent.com/ibtrussia.org",
     "slug": "ibt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1751,
@@ -98,6 +98,7 @@
     "timeMonth": 1407,
     "timeYear": 1751,
     "dailyMinutesDown": {
+      "2022-01-18": 1,
       "2021-08-26": 30,
       "2021-08-18": 77,
       "2021-05-16": 33
