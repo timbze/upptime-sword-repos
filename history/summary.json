@@ -128,10 +128,10 @@
     "url": "https://public.modules.stepbible.org",
     "icon": "https://favicons.githubusercontent.com/public.modules.stepbible.org",
     "slug": "step-bible",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 383,
@@ -140,6 +140,7 @@
     "timeMonth": 376,
     "timeYear": 383,
     "dailyMinutesDown": {
+      "2022-02-18": 1,
       "2021-11-07": 27,
       "2021-08-23": 42
     }
