@@ -4,10 +4,10 @@
     "url": "https://crosswire.org",
     "icon": "https://favicons.githubusercontent.com/crosswire.org",
     "slug": "cross-wire",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 356,
@@ -16,6 +16,7 @@
     "timeMonth": 285,
     "timeYear": 351,
     "dailyMinutesDown": {
+      "2022-04-27": 1,
       "2021-11-13": 16,
       "2021-09-06": 36,
       "2021-08-19": 62
