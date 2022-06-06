@@ -22,17 +22,22 @@ sites:
       - kahunapule
   - name: IBT
     url: https://ibtrussia.org
+  - name: IBT FTP
+    check: "tcp-ping"
+    url: ftp.ibt.org.ru
+    port: 21
   - name: Xiphos FTP
     check: "tcp-ping"
     url: ftp.xiphos.org
+    port: 21
   - name: Step Bible
     url: https://public.modules.stepbible.org
   - name: AndBible Github repo
     url: https://andbible.github.io
-  - name: Bible.org FTP
-    check: "tcp-ping"
-    url: ftp.bible.org
-    port: 21
+#  - name: Bible.org FTP
+#    check: "tcp-ping"
+#    url: ftp.bible.org
+#    port: 21
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
