@@ -4,10 +4,10 @@
     "url": "https://crosswire.org",
     "icon": "https://favicons.githubusercontent.com/crosswire.org",
     "slug": "cross-wire",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 353,
@@ -16,6 +16,7 @@
     "timeMonth": 264,
     "timeYear": 355,
     "dailyMinutesDown": {
+      "2022-09-25": 1,
       "2022-08-01": 99,
       "2022-06-14": 18,
       "2022-04-27": 16,
@@ -27,9 +28,9 @@
     "url": "ftp.crosswire.org",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "cross-wire-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -39,6 +40,7 @@
     "timeMonth": 123,
     "timeYear": 81,
     "dailyMinutesDown": {
+      "2022-09-25": 0,
       "2022-08-01": 97,
       "2022-06-14": 17
     }
