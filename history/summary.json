@@ -146,17 +146,17 @@
     "slug": "xiphos-ftp",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "98.65%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
     "time": 67,
     "timeDay": 49,
     "timeWeek": 60,
     "timeMonth": 68,
     "timeYear": 69,
     "dailyMinutesDown": {
-      "2022-10-20": 0,
+      "2022-10-20": 19,
       "2022-06-30": 130
     }
   },
