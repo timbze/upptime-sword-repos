@@ -96,9 +96,9 @@
     "url": "https://ibtrussia.org",
     "icon": "https://icons.duckduckgo.com/ip3/ibtrussia.org.ico",
     "slug": "ibt",
-    "status": "up",
+    "status": "down",
     "uptime": "98.97%",
-    "uptimeDay": "93.51%",
+    "uptimeDay": "93.48%",
     "uptimeWeek": "99.07%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "98.35%",
@@ -127,19 +127,19 @@
     "url": "ftp.ibt.org.ru",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ibt-ftp",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "96.52%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.98%",
     "time": 342,
     "timeDay": 448,
     "timeWeek": 562,
     "timeMonth": 517,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2022-10-28": 0
+      "2022-10-28": 50
     }
   },
   {
