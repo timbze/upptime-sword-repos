@@ -87,9 +87,9 @@
     "url": "https://ibtrussia.org",
     "icon": "https://icons.duckduckgo.com/ip3/ibtrussia.org.ico",
     "slug": "ibt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
@@ -99,6 +99,7 @@
     "timeMonth": 1999,
     "timeYear": 1732,
     "dailyMinutesDown": {
+      "2023-10-02": 0,
       "2023-01-25": 100,
       "2022-12-22": 23,
       "2022-10-28": 189
@@ -169,7 +170,7 @@
     "uptimeYear": "99.92%",
     "time": 413,
     "timeDay": 403,
-    "timeWeek": 422,
+    "timeWeek": 433,
     "timeMonth": 451,
     "timeYear": 415,
     "dailyMinutesDown": {
