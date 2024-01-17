@@ -4,10 +4,10 @@
     "url": "https://crosswire.org",
     "icon": "https://icons.duckduckgo.com/ip3/crosswire.org.ico",
     "slug": "cross-wire",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 298,
@@ -16,6 +16,7 @@
     "timeMonth": 546,
     "timeYear": 298,
     "dailyMinutesDown": {
+      "2024-01-17": 1,
       "2023-01-22": 20
     }
   },
@@ -24,9 +25,9 @@
     "url": "ftp.crosswire.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "cross-wire-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,7 +36,9 @@
     "timeWeek": 55,
     "timeMonth": 53,
     "timeYear": 109,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "eBible Main",
