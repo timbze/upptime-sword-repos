@@ -50,12 +50,12 @@
     "uptime": "99.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 323,
     "timeDay": 367,
     "timeWeek": 352,
-    "timeMonth": 345,
+    "timeMonth": 347,
     "timeYear": 324,
     "dailyMinutesDown": {
       "2024-01-15": 23
@@ -159,9 +159,9 @@
     "url": "https://public.modules.stepbible.org",
     "icon": "https://icons.duckduckgo.com/ip3/public.modules.stepbible.org.ico",
     "slug": "step-bible",
-    "status": "up",
+    "status": "down",
     "uptime": "97.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -171,6 +171,7 @@
     "timeMonth": 423,
     "timeYear": 419,
     "dailyMinutesDown": {
+      "2024-02-15": 0,
       "2023-10-29": 26,
       "2023-06-24": 25
     }
