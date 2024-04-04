@@ -1,7 +1,7 @@
 url: ftp.xiphos.org
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2024-04-04T01:17:21.208Z
+lastUpdated: 2024-04-04T03:46:36.760Z
 startTime: 2021-03-15T16:12:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
