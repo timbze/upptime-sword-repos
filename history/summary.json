@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 295,
-    "timeDay": 358,
-    "timeWeek": 217,
-    "timeMonth": 308,
-    "timeYear": 310,
+    "timeDay": 73,
+    "timeWeek": 197,
+    "timeMonth": 298,
+    "timeYear": 309,
     "dailyMinutesDown": {
       "2024-03-05": 22,
       "2024-03-04": 3,
@@ -34,10 +34,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 93,
-    "timeDay": 52,
+    "timeDay": 19,
     "timeWeek": 34,
-    "timeMonth": 49,
-    "timeYear": 88,
+    "timeMonth": 47,
+    "timeYear": 87,
     "dailyMinutesDown": {
       "2024-03-05": 22,
       "2024-03-04": 1,
@@ -57,10 +57,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 343,
-    "timeDay": 398,
-    "timeWeek": 411,
+    "timeDay": 478,
+    "timeWeek": 413,
     "timeMonth": 376,
-    "timeYear": 372,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2024-01-15": 23
     }
@@ -77,9 +77,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 103,
-    "timeDay": 14,
+    "timeDay": 64,
     "timeWeek": 46,
-    "timeMonth": 33,
+    "timeMonth": 34,
     "timeYear": 101,
     "dailyMinutesDown": {}
   },
@@ -89,16 +89,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ibtrussia.org.ico",
     "slug": "ibt",
     "status": "up",
-    "uptime": "99.10%",
+    "uptime": "99.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.87%",
-    "time": 1891,
-    "timeDay": 1753,
-    "timeWeek": 1771,
-    "timeMonth": 1699,
-    "timeYear": 1951,
+    "time": 1893,
+    "timeDay": 2272,
+    "timeWeek": 1874,
+    "timeMonth": 1727,
+    "timeYear": 1954,
     "dailyMinutesDown": {
       "2024-04-05": 1012,
       "2024-04-04": 25,
@@ -123,11 +123,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 397,
-    "timeDay": 107,
-    "timeWeek": 128,
-    "timeMonth": 120,
-    "timeYear": 355,
+    "time": 396,
+    "timeDay": 156,
+    "timeWeek": 130,
+    "timeMonth": 122,
+    "timeYear": 354,
     "dailyMinutesDown": {
       "2023-10-05": 59
     }
@@ -144,8 +144,8 @@
     "uptimeMonth": "99.20%",
     "uptimeYear": "99.79%",
     "time": 63,
-    "timeDay": 22,
-    "timeWeek": 32,
+    "timeDay": 41,
+    "timeWeek": 33,
     "timeMonth": 31,
     "timeYear": 61,
     "dailyMinutesDown": {
@@ -159,8 +159,7 @@
       "2024-03-08": 18,
       "2023-07-27": 202,
       "2023-07-26": 33,
-      "2023-07-25": 169,
-      "2023-05-21": 25
+      "2023-07-25": 169
     }
   },
   {
@@ -175,10 +174,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 423,
-    "timeDay": 405,
-    "timeWeek": 476,
-    "timeMonth": 443,
-    "timeYear": 427,
+    "timeDay": 597,
+    "timeWeek": 495,
+    "timeMonth": 449,
+    "timeYear": 428,
     "dailyMinutesDown": {
       "2024-02-23": 18,
       "2023-10-29": 26,
@@ -197,9 +196,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 93,
-    "timeDay": 37,
-    "timeWeek": 116,
-    "timeMonth": 75,
+    "timeDay": 101,
+    "timeWeek": 101,
+    "timeMonth": 77,
     "timeYear": 92,
     "dailyMinutesDown": {}
   }
