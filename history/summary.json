@@ -51,10 +51,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/ebible.org.ico",
     "slug": "e-bible-main",
     "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.26%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptime": "99.91%",
+    "uptimeDay": "97.57%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
     "time": 359,
     "timeDay": 1434,
@@ -62,7 +62,7 @@
     "timeMonth": 518,
     "timeYear": 390,
     "dailyMinutesDown": {
-      "2024-06-01": 25,
+      "2024-06-01": 35,
       "2024-01-15": 23
     }
   },
@@ -71,9 +71,9 @@
     "url": "ftp.ebible.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-bible-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -82,7 +82,9 @@
     "timeWeek": 40,
     "timeMonth": 35,
     "timeYear": 98,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-06-01": 0
+    }
   },
   {
     "name": "IBT",
