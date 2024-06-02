@@ -1,7 +1,7 @@
 url: ftp.ebible.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-01T23:09:37.836Z
+status: up
+code: 200
+responseTime: 15
+lastUpdated: 2024-06-02T00:29:39.106Z
 startTime: 2021-07-24T15:50:16.000Z
 generator: Upptime <https://github.com/upptime/upptime>
