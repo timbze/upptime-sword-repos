@@ -50,10 +50,10 @@
     "url": "https://ebible.org",
     "icon": "https://icons.duckduckgo.com/ip3/ebible.org.ico",
     "slug": "e-bible-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
     "uptimeMonth": "99.57%",
     "uptimeYear": "99.96%",
     "time": 388,
@@ -62,6 +62,7 @@
     "timeMonth": 808,
     "timeYear": 427,
     "dailyMinutesDown": {
+      "2024-06-28": 4,
       "2024-06-02": 30,
       "2024-06-01": 156,
       "2024-01-15": 23
@@ -72,9 +73,9 @@
     "url": "ftp.ebible.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-bible-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.97%",
@@ -84,6 +85,7 @@
     "timeMonth": 36,
     "timeYear": 93,
     "dailyMinutesDown": {
+      "2024-06-28": 0,
       "2024-06-02": 30,
       "2024-06-01": 106
     }
