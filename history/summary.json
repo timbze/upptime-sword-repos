@@ -99,19 +99,19 @@
     "url": "https://ibtrussia.org",
     "icon": "https://icons.duckduckgo.com/ip3/ibtrussia.org.ico",
     "slug": "ibt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.22%",
-    "uptimeDay": "99.23%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.64%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.65%",
     "time": 1882,
     "timeDay": 1544,
     "timeWeek": 1624,
     "timeMonth": 1634,
     "timeYear": 1917,
     "dailyMinutesDown": {
-      "2024-11-03": 11,
+      "2024-11-03": 1,
       "2024-06-25": 21,
       "2024-04-05": 1012,
       "2024-04-04": 25,
@@ -125,9 +125,9 @@
     "url": "ftp.ibt.org.ru",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ibt-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -136,7 +136,9 @@
     "timeWeek": 124,
     "timeMonth": 120,
     "timeYear": 161,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-03": 0
+    }
   },
   {
     "name": "Xiphos FTP",
