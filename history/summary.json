@@ -109,7 +109,7 @@
     "timeDay": 1660,
     "timeWeek": 1580,
     "timeMonth": 1640,
-    "timeYear": 1843,
+    "timeYear": 1842,
     "dailyMinutesDown": {
       "2024-06-25": 21,
       "2024-04-05": 1012,
@@ -168,9 +168,9 @@
     "slug": "step-bible",
     "status": "up",
     "uptime": "98.37%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 443,
     "timeDay": 460,
@@ -178,7 +178,6 @@
     "timeMonth": 465,
     "timeYear": 446,
     "dailyMinutesDown": {
-      "2024-11-07": 12,
       "2024-06-20": 18,
       "2024-02-23": 18
     }
