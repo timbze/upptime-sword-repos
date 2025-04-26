@@ -101,17 +101,17 @@
     "slug": "ibt",
     "status": "up",
     "uptime": "99.22%",
-    "uptimeDay": "97.45%",
-    "uptimeWeek": "99.64%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.89%",
     "uptimeYear": "99.63%",
     "time": 1668,
-    "timeDay": 918,
+    "timeDay": 781,
     "timeWeek": 2351,
     "timeMonth": 1287,
     "timeYear": 1620,
     "dailyMinutesDown": {
-      "2025-04-25": 31,
+      "2025-04-25": 16,
       "2025-04-24": 6,
       "2025-04-11": 28,
       "2025-02-28": 26,
@@ -164,8 +164,7 @@
     "dailyMinutesDown": {
       "2024-05-04": 52,
       "2024-05-03": 159,
-      "2024-04-28": 15,
-      "2024-04-26": 30
+      "2024-04-28": 15
     }
   },
   {
