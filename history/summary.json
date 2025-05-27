@@ -170,9 +170,9 @@
     "url": "https://public.modules.stepbible.org",
     "icon": "https://icons.duckduckgo.com/ip3/public.modules.stepbible.org.ico",
     "slug": "step-bible",
-    "status": "up",
+    "status": "down",
     "uptime": "98.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -182,6 +182,7 @@
     "timeMonth": 487,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2025-05-27": 0,
       "2024-06-20": 18
     }
   },
