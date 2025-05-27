@@ -152,9 +152,9 @@
     "url": "ftp.xiphos.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xiphos-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -163,7 +163,9 @@
     "timeWeek": 33,
     "timeMonth": 33,
     "timeYear": 37,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-27": 0
+    }
   },
   {
     "name": "Step Bible",
@@ -172,17 +174,16 @@
     "slug": "step-bible",
     "status": "up",
     "uptime": "98.58%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 460,
     "timeDay": 508,
     "timeWeek": 466,
     "timeMonth": 490,
     "timeYear": 467,
     "dailyMinutesDown": {
-      "2025-05-27": 10,
       "2024-06-20": 18
     }
   },
