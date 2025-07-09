@@ -8,7 +8,7 @@
     "uptime": "99.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
-    "uptimeMonth": "98.79%",
+    "uptimeMonth": "98.82%",
     "uptimeYear": "98.94%",
     "time": 335,
     "timeDay": 186,
@@ -155,11 +155,11 @@
     "url": "ftp.xiphos.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "xiphos-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "99.73%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "98.93%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 37,
     "timeDay": 44,
@@ -167,7 +167,7 @@
     "timeMonth": 37,
     "timeYear": 38,
     "dailyMinutesDown": {
-      "2025-07-09": 12,
+      "2025-07-09": 0,
       "2025-07-08": 15,
       "2025-05-27": 34
     }
