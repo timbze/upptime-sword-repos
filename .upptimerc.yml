@@ -26,10 +26,6 @@ sites:
     check: "tcp-ping"
     url: ftp.ibt.org.ru
     port: 21
-  - name: Xiphos FTP
-    check: "tcp-ping"
-    url: ftp.xiphos.org
-    port: 21
   - name: Step Bible
     url: https://public.modules.stepbible.org
   - name: AndBible Github repo
