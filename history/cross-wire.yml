@@ -1,7 +1,7 @@
 url: https://crosswire.org
-status: up
-code: 200
-responseTime: 363
-lastUpdated: 2025-09-06T03:16:58.711Z
+status: down
+code: 503
+responseTime: 296
+lastUpdated: 2025-09-06T07:29:21.015Z
 startTime: 2021-03-14T20:19:30.000Z
 generator: Upptime <https://github.com/upptime/upptime>
