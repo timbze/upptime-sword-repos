@@ -13,7 +13,7 @@
     "time": 340,
     "timeDay": 328,
     "timeWeek": 326,
-    "timeMonth": 296,
+    "timeMonth": 293,
     "timeYear": 332,
     "dailyMinutesDown": {
       "2025-09-25": 72,
@@ -167,11 +167,11 @@
     "url": "https://public.modules.stepbible.org",
     "icon": "https://icons.duckduckgo.com/ip3/public.modules.stepbible.org.ico",
     "slug": "step-bible",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
     "timeDay": 507,
@@ -179,7 +179,7 @@
     "timeMonth": 496,
     "timeYear": 474,
     "dailyMinutesDown": {
-      "2025-10-12": 12
+      "2025-10-12": 0
     }
   },
   {
