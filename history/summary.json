@@ -167,18 +167,20 @@
     "url": "https://public.modules.stepbible.org",
     "icon": "https://icons.duckduckgo.com/ip3/public.modules.stepbible.org.ico",
     "slug": "step-bible",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 474,
+    "time": 473,
     "timeDay": 468,
     "timeWeek": 471,
     "timeMonth": 495,
     "timeYear": 474,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-12": 0
+    }
   },
   {
     "name": "AndBible Github repo",
