@@ -113,17 +113,16 @@
     "slug": "ibt",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "97.57%",
-    "uptimeYear": "99.42%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "97.60%",
+    "uptimeYear": "99.43%",
     "time": 1592,
     "timeDay": 12287,
     "timeWeek": 3615,
     "timeMonth": 1668,
     "timeYear": 1526,
     "dailyMinutesDown": {
-      "2025-10-13": 9,
       "2025-09-18": 750,
       "2025-09-17": 303,
       "2025-08-11": 19,
@@ -168,9 +167,9 @@
     "url": "https://public.modules.stepbible.org",
     "icon": "https://icons.duckduckgo.com/ip3/public.modules.stepbible.org.ico",
     "slug": "step-bible",
-    "status": "up",
+    "status": "down",
     "uptime": "98.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -179,7 +178,9 @@
     "timeWeek": 477,
     "timeMonth": 500,
     "timeYear": 475,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-13": 0
+    }
   },
   {
     "name": "AndBible Github repo",
