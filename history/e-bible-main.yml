@@ -1,7 +1,7 @@
 url: https://ebible.org
-status: up
-code: 200
-responseTime: 4630
-lastUpdated: 2026-01-21T07:20:30.759Z
+status: down
+code: 500
+responseTime: 2098
+lastUpdated: 2026-01-21T09:15:48.673Z
 startTime: 2021-07-24T15:50:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
