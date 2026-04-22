@@ -9,11 +9,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.77%",
-    "uptimeYear": "98.81%",
+    "uptimeYear": "98.86%",
     "time": 311,
-    "timeDay": 190,
-    "timeWeek": 314,
-    "timeMonth": 256,
+    "timeDay": 366,
+    "timeWeek": 313,
+    "timeMonth": 257,
     "timeYear": 316,
     "dailyMinutesDown": {
       "2026-04-08": 53,
@@ -37,8 +37,7 @@
       "2025-06-07": 1246,
       "2025-06-06": 727,
       "2025-06-05": 422,
-      "2025-04-23": 141,
-      "2025-04-22": 1090
+      "2025-04-23": 141
     }
   },
   {
@@ -53,8 +52,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 43,
-    "timeDay": 47,
-    "timeWeek": 52,
+    "timeDay": 49,
+    "timeWeek": 50,
     "timeMonth": 46,
     "timeYear": 42,
     "dailyMinutesDown": {
@@ -76,9 +75,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.30%",
     "time": 571,
-    "timeDay": 461,
-    "timeWeek": 646,
-    "timeMonth": 602,
+    "timeDay": 629,
+    "timeWeek": 638,
+    "timeMonth": 609,
     "timeYear": 591,
     "dailyMinutesDown": {
       "2026-04-13": 28,
@@ -107,14 +106,14 @@
     "slug": "e-bible-ftp",
     "status": "up",
     "uptime": "99.89%",
-    "uptimeDay": "90.67%",
+    "uptimeDay": "95.70%",
     "uptimeWeek": "98.67%",
-    "uptimeMonth": "99.42%",
+    "uptimeMonth": "99.55%",
     "uptimeYear": "99.55%",
     "time": 49,
-    "timeDay": 108,
-    "timeWeek": 107,
-    "timeMonth": 98,
+    "timeDay": 113,
+    "timeWeek": 105,
+    "timeMonth": 99,
     "timeYear": 50,
     "dailyMinutesDown": {
       "2026-04-21": 104,
@@ -144,10 +143,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.74%",
-    "time": 1364,
-    "timeDay": 731,
-    "timeWeek": 849,
-    "timeMonth": 762,
+    "time": 1363,
+    "timeDay": 800,
+    "timeWeek": 860,
+    "timeMonth": 761,
     "timeYear": 1266,
     "dailyMinutesDown": {
       "2025-12-22": 18,
@@ -177,10 +176,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 121,
-    "timeDay": 126,
-    "timeWeek": 113,
-    "timeMonth": 121,
-    "timeYear": 120,
+    "timeDay": 121,
+    "timeWeek": 115,
+    "timeMonth": 120,
+    "timeYear": 121,
     "dailyMinutesDown": {
       "2025-06-26": 29
     }
@@ -197,9 +196,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 487,
-    "timeDay": 404,
-    "timeWeek": 447,
-    "timeMonth": 446,
+    "timeDay": 342,
+    "timeWeek": 432,
+    "timeMonth": 441,
     "timeYear": 494,
     "dailyMinutesDown": {
       "2025-10-13": 19
@@ -217,9 +216,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 106,
-    "timeDay": 135,
-    "timeWeek": 134,
-    "timeMonth": 109,
+    "timeDay": 98,
+    "timeWeek": 140,
+    "timeMonth": 108,
     "timeYear": 110,
     "dailyMinutesDown": {}
   }
