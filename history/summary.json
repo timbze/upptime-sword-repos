@@ -4,17 +4,17 @@
     "url": "https://crosswire.org",
     "icon": "https://icons.duckduckgo.com/ip3/crosswire.org.ico",
     "slug": "cross-wire",
-    "status": "down",
-    "uptime": "99.73%",
-    "uptimeDay": "96.76%",
-    "uptimeWeek": "99.54%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.70%",
-    "time": 304,
-    "timeDay": 246,
-    "timeWeek": 228,
-    "timeMonth": 208,
-    "timeYear": 287,
+    "status": "up",
+    "uptime": "99.72%",
+    "uptimeDay": "83.92%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.47%",
+    "uptimeYear": "99.67%",
+    "time": 303,
+    "timeDay": 186,
+    "timeWeek": 210,
+    "timeMonth": 204,
+    "timeYear": 286,
     "dailyMinutesDown": {
       "2025-06-27": 150,
       "2025-06-26": 274,
@@ -33,7 +33,7 @@
       "2026-04-07": 49,
       "2026-04-08": 53,
       "2026-04-22": 77,
-      "2026-06-13": 47
+      "2026-06-13": 232
     }
   },
   {
