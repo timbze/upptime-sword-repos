@@ -4,9 +4,9 @@
     "url": "https://crosswire.org",
     "icon": "https://icons.duckduckgo.com/ip3/crosswire.org.ico",
     "slug": "cross-wire",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.71%",
@@ -32,7 +32,8 @@
       "2026-03-19": 52,
       "2026-04-07": 49,
       "2026-04-08": 53,
-      "2026-04-22": 77
+      "2026-04-22": 77,
+      "2026-06-13": 0
     }
   },
   {
