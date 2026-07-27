@@ -6,7 +6,7 @@
     "slug": "cross-wire",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "4.36%",
+    "uptimeDay": "40.28%",
     "uptimeWeek": "86.34%",
     "uptimeMonth": "96.86%",
     "uptimeYear": "99.36%",
@@ -61,17 +61,17 @@
     "url": "https://ebible.org",
     "icon": "https://icons.duckduckgo.com/ip3/ebible.org.ico",
     "slug": "e-bible-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.17%",
-    "time": 610,
-    "timeDay": 386,
-    "timeWeek": 404,
-    "timeMonth": 1280,
-    "timeYear": 645,
+    "time": 611,
+    "timeDay": 466,
+    "timeWeek": 421,
+    "timeMonth": 1259,
+    "timeYear": 644,
     "dailyMinutesDown": {
       "2026-01-21": 77,
       "2026-01-20": 6,
@@ -97,7 +97,8 @@
       "2026-05-02": 150,
       "2026-05-03": 71,
       "2026-06-30": 86,
-      "2026-07-12": 128
+      "2026-07-12": 128,
+      "2026-07-27": 0
     }
   },
   {
