@@ -6,7 +6,7 @@
     "slug": "cross-wire",
     "status": "up",
     "uptime": "99.65%",
-    "uptimeDay": "75.25%",
+    "uptimeDay": "93.76%",
     "uptimeWeek": "86.34%",
     "uptimeMonth": "96.86%",
     "uptimeYear": "99.36%",
@@ -106,13 +106,13 @@
     "url": "ftp.ebible.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "e-bible-ftp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.89%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.55%",
-    "time": 49,
+    "time": 48,
     "timeDay": 18,
     "timeWeek": 42,
     "timeMonth": 35,
@@ -131,7 +131,8 @@
       "2026-03-20": 14,
       "2026-03-22": 104,
       "2026-04-21": 104,
-      "2026-04-20": 31
+      "2026-04-20": 31,
+      "2026-07-28": 0
     }
   },
   {
