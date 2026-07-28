@@ -61,16 +61,16 @@
     "url": "https://ebible.org",
     "icon": "https://icons.duckduckgo.com/ip3/ebible.org.ico",
     "slug": "e-bible-main",
-    "status": "down",
-    "uptime": "99.76%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "98.98%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.15%",
+    "status": "up",
+    "uptime": "99.75%",
+    "uptimeDay": "95.19%",
+    "uptimeWeek": "98.30%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.14%",
     "time": 610,
-    "timeDay": 355,
-    "timeWeek": 405,
-    "timeMonth": 1213,
+    "timeDay": 423,
+    "timeWeek": 419,
+    "timeMonth": 1195,
     "timeYear": 643,
     "dailyMinutesDown": {
       "2026-01-21": 77,
@@ -99,7 +99,7 @@
       "2026-06-30": 86,
       "2026-07-12": 128,
       "2026-07-27": 103,
-      "2026-07-28": 0
+      "2026-07-28": 69
     }
   },
   {
