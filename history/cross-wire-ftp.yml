@@ -1,7 +1,7 @@
 url: ftp.crosswire.org
-status: down
-code: 0
+status: up
+code: 200
 responseTime: 0
-lastUpdated: 2026-08-13T12:33:57.287Z
+lastUpdated: 2026-08-13T21:51:15.944Z
 startTime: 2021-07-24T17:04:44.000Z
 generator: Upptime <https://github.com/upptime/upptime>
