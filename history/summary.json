@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.35%",
     "time": 272,
-    "timeDay": 31,
-    "timeWeek": 222,
+    "timeDay": 284,
+    "timeWeek": 241,
     "timeMonth": 240,
     "timeYear": 252,
     "dailyMinutesDown": {
@@ -39,9 +39,9 @@
     "uptimeMonth": "96.17%",
     "uptimeYear": "99.57%",
     "time": 41,
-    "timeDay": 4,
+    "timeDay": 43,
     "timeWeek": 33,
-    "timeMonth": 33,
+    "timeMonth": 34,
     "timeYear": 41,
     "dailyMinutesDown": {
       "2026-08-13": 557,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.11%",
-    "time": 613,
-    "timeDay": 389,
-    "timeWeek": 364,
-    "timeMonth": 346,
-    "timeYear": 649,
+    "time": 612,
+    "timeDay": 276,
+    "timeWeek": 365,
+    "timeMonth": 332,
+    "timeYear": 648,
     "dailyMinutesDown": {
       "2026-01-21": 77,
       "2026-01-20": 6,
@@ -109,8 +109,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.52%",
     "time": 49,
-    "timeDay": 68,
-    "timeWeek": 40,
+    "timeDay": 77,
+    "timeWeek": 42,
     "timeMonth": 43,
     "timeYear": 52,
     "dailyMinutesDown": {
@@ -143,9 +143,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1104,
-    "timeDay": 770,
-    "timeWeek": 851,
-    "timeMonth": 942,
+    "timeDay": 834,
+    "timeWeek": 827,
+    "timeMonth": 940,
     "timeYear": 1012,
     "dailyMinutesDown": {
       "2025-10-21": 37,
@@ -168,10 +168,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 123,
-    "timeDay": 138,
-    "timeWeek": 134,
-    "timeMonth": 129,
-    "timeYear": 124,
+    "timeDay": 128,
+    "timeWeek": 130,
+    "timeMonth": 128,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -186,13 +186,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 474,
-    "timeDay": 413,
-    "timeWeek": 463,
-    "timeMonth": 459,
+    "timeDay": 452,
+    "timeWeek": 441,
+    "timeMonth": 451,
     "timeYear": 471,
-    "dailyMinutesDown": {
-      "2025-10-13": 19
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "AndBible Github repo",
@@ -205,10 +203,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 109,
-    "timeDay": 143,
-    "timeWeek": 148,
-    "timeMonth": 121,
+    "time": 108,
+    "timeDay": 113,
+    "timeWeek": 140,
+    "timeMonth": 120,
     "timeYear": 108,
     "dailyMinutesDown": {}
   }
